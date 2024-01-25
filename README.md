@@ -12,5 +12,5 @@
 
 
 ---
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giswqs&show_icons=true)
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fdzul&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
