@@ -9,3 +9,8 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
+
+
+---
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giswqs&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
