@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/fdzul?style=social)](https://github.com/fdzul?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/FdzulM?style=social)](https://twitter.com/FdzulM)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=3e3-4VkAAAAJ)
 [![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/QiushengWu)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
