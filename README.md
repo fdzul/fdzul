@@ -61,6 +61,8 @@
 
 ### 📊 GitHub stats
 
+<p align="center"> <img src="metrics.svg" alt="GitHub metrics"> </p>
+
 <p>
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fdzul&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdzul&layout=compact&langs_count=6&hide=javascript,go,html,css,tex&hide_border=true" alt="Top languages">
