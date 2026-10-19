@@ -1,16 +1,3 @@
-### Felipe Antonio Dzul Manzanilla 👋
-
-[![GitHub Badge](https://img.shields.io/github/followers/fdzul?style=social)](https://github.com/fdzul?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/FdzulM?style=social)](https://twitter.com/FdzulM)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=3e3-4VkAAAAJ)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fdzul.fdzul)
-
-
----
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fdzul&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdzul&langs_count=1&hide=javascript,go,html,css,tex)
-
-
 <h2 align="center">Hi, I'm Felipe Antonio Dzul Manzanilla 👋</h2>
 <p align="center">
   <b>Medical entomologist & spatial epidemiologist</b> · Instituto Nacional de Salud Pública (INSP), México<br>
@@ -35,14 +22,36 @@
 - 📦 **Open-source tools** in R and Python so health programs can reuse the analyses
 - 🤝 Collaborations with Emory University, CDC, LSHTM and the University of Oxford
 
-### 📦 Featured packages & projects
+### 🌐 The dengueverse
+
+<p>
+  <a href="https://fdzul.r-universe.dev"><img src="https://fdzul.r-universe.dev/badges/:name" alt="r-universe"></a>
+  <a href="https://fdzul.r-universe.dev/packages"><img src="https://fdzul.r-universe.dev/badges/:total" alt="packages"></a>
+</p>
+
+**dengueverse** is a family of R packages for the surveillance, spatial analysis and control of dengue and *Aedes*-borne diseases in Mexico, distributed through [R-universe](https://fdzul.r-universe.dev).
+
+| Package | Description |
+|---|---|
+| [**denhotspots**](https://fdzul.r-universe.dev/denhotspots) | Identification of persistent dengue transmission hotspots |
+| [**deneggs**](https://github.com/fdzul/deneggs) | Spatial prediction of *Aedes* egg counts where ovitraps were not collected |
+| [**densnv**](https://github.com/fdzul/densnv) | Tools for dengue surveillance data from the national system (SINAVE) |
+| [**rgeomex**](https://github.com/fdzul/rgeomex) | Spatial (areal) datasets for Mexico from INE & INEGI |
+| [**popmex**](https://github.com/fdzul/popmex) | Population data for Mexico for rates and denominators |
+
+Install any package from the dengueverse:
+
+```r
+install.packages("denhotspots",
+                 repos = c("https://fdzul.r-universe.dev",
+                           "https://cloud.r-project.org"))
+```
+
+### 📦 Other projects
 
 | Project | Language | Description |
 |---|---|---|
 | [**denguedatasets-py**](https://github.com/fdzul/denguedatasets-py) | Python | Curated open-access dengue surveillance & climate datasets for epidemiology and ML |
-| [**denhotspots**](https://github.com/fdzul/denhotspots) | R | Identification of dengue transmission hotspots |
-| [**deneggs**](https://github.com/fdzul/deneggs) | R | Spatial prediction of *Aedes* egg counts where ovitraps were not collected |
-| [**rgeomex**](https://github.com/fdzul/rgeomex) | R | Spatial (areal) datasets for Mexico from INE & INEGI |
 | [**boldenr**](https://github.com/fdzul/boldenr) | R | Automated dengue epidemiological bulletins (Veracruz) |
 | [**spatial_analysis_dengue_R**](https://github.com/fdzul/spatial_analysis_dengue_R) | R | Course/material on spatial analysis of dengue in R |
 
@@ -61,11 +70,8 @@
 
 ### 📊 GitHub stats
 
-<p align="center"> <img src="metrics.svg" alt="GitHub metrics"> </p>
-
-<p>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fdzul&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdzul&layout=compact&langs_count=6&hide=javascript,go,html,css,tex&hide_border=true" alt="Top languages">
+<p align="center">
+  <img src="metrics.svg" alt="GitHub metrics">
 </p>
 
 ---
