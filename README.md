@@ -64,7 +64,6 @@ install.packages("denhotspots",
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google&logoColor=white" alt="Google Earth Engine">
   <img src="https://img.shields.io/badge/INLA-Bayesian-6A5ACD?style=flat" alt="INLA">
   <img src="https://img.shields.io/badge/tidymodels-ML-1A162D?style=flat" alt="tidymodels">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" alt="QGIS">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
