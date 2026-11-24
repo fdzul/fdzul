@@ -29,15 +29,25 @@
   <a href="https://fdzul.r-universe.dev/packages"><img src="https://fdzul.r-universe.dev/badges/:total" alt="packages"></a>
 </p>
 
-**dengueverse** is a family of R packages for the surveillance, spatial analysis and control of dengue and *Aedes*-borne diseases in Mexico, distributed through [R-universe](https://fdzul.r-universe.dev).
+[**dengueverse**](https://fdzul.github.io/dengueverse/) is a family of R packages for the surveillance, spatial analysis and control of dengue and *Aedes*-borne diseases in Mexico, distributed through [R-universe](https://fdzul.r-universe.dev).
 
-| Package | Description |
-|---|---|
-| [**denhotspots**](https://fdzul.r-universe.dev/denhotspots) | Identification of persistent dengue transmission hotspots |
-| [**deneggs**](https://github.com/fdzul/deneggs) | Spatial prediction of *Aedes* egg counts where ovitraps were not collected |
-| [**densnv**](https://github.com/fdzul/densnv) | Tools for dengue surveillance data from the national system (SINAVE) |
-| [**rgeomex**](https://github.com/fdzul/rgeomex) | Spatial (areal) datasets for Mexico from INE & INEGI |
-| [**popmex**](https://github.com/fdzul/popmex) | Population data for Mexico for rates and denominators |
+| Area | Package | Description |
+|---|---|---|
+| Data | [**sinave**](https://github.com/fdzul/sinave) | Imports the eleven vector-borne disease datasets from SINAVE |
+| Data | [**rgeomex**](https://fdzul.github.io/rgeomex/) | Geographic boundaries of Mexico, from states to electoral sections (INEGI 2019, INE 2020) |
+| Data | [**popmex**](https://fdzul.github.io/popmex/) | Population of Mexico by municipality, sex and age group, also on H3 hexagons, for rates |
+| Data | [**denguedatasets**](https://fdzul.github.io/denguedatasets/) | Open-access dengue surveillance and climate datasets from eleven countries |
+| Data | [**ewarsmx**](https://github.com/fdzul/ewarsmx) | Climate and epidemiological data for the dengue early warning system in Mexico (EWARS-CSD) |
+| Data | [**climex**](https://fdzul.github.io/climex/) | Climate variables from the NASA POWER API for 2,465 municipalities or any set of points |
+| Surveillance | [**densnv**](https://fdzul.github.io/densnv/) | Analysis of SINAVE data: transmission foci, Knox test, Rt and epidemiological scenarios |
+| Surveillance | [**vectoRcontrol**](https://github.com/fdzul/vectoRcontrol) | Exploration of vector control datasets from Mexico's Ministry of Health |
+| Surveillance | [**epifeatures**](https://github.com/fdzul/epifeatures) | Epidemiological features from dengue time series |
+| Surveillance | [**boldenr**](https://github.com/fdzul/boldenr) | Dengue bulletin for Veracruz (legacy, being replaced by densnv) |
+| Hotspots | [**denhotspots**](https://fdzul.github.io/denhotspots/) | Persistent transmission hotspots, space-time analysis and log-Gaussian Cox processes |
+| Hotspots | [**knox**](https://github.com/fdzul/knox) | Knox test for space-time interaction |
+| Entomology | [**deneggs**](https://fdzul.github.io/deneggs/) | Predictive maps of *Aedes aegypti* eggs or adults where no collection was made (INLA-SPDE) |
+| Risk | [**denrisk**](https://fdzul.github.io/denrisk/) | Spatial datasets on potential dengue transmission in Mexico |
+| Risk | [**dengueriskcdmx**](https://github.com/fdzul/dengueriskcdmx) | Data, rasters and code for the dengue risk map of the Mexico City Metropolitan Area |
 
 Install any package from the dengueverse:
 
@@ -47,13 +57,23 @@ install.packages("denhotspots",
                            "https://cloud.r-project.org"))
 ```
 
+#### 🐍 Python versions
+
+| Package | Description |
+|---|---|
+| [**rgeomex-py**](https://fdzul.github.io/rgeomex-py/) | Geographic boundaries of Mexico (INEGI 2019, INE 2020) |
+| [**popmex-py**](https://fdzul.github.io/popmex-py/) | Population of Mexico by municipality, sex and age group, H3 hexagons and LandScan (1 km) |
+| [**denguedatasets-py**](https://fdzul.github.io/denguedatasets-py/) | Open-access dengue surveillance and climate datasets |
+| [**dengueriskcdmx-py**](https://fdzul.github.io/dengueriskcdmx-py/) | Dengue risk map of the Mexico City Metropolitan Area |
+| [**climex-py**](https://fdzul.github.io/climex-py/) | Climate data from the NASA POWER API (experimental) |
+| [**densnv-py**](https://fdzul.github.io/densnv-py/) | SINAVE reading, cases by municipality and locality, and Rt (experimental) |
+
 ### 📦 Other projects
 
 | Project | Language | Description |
 |---|---|---|
-| [**denguedatasets-py**](https://github.com/fdzul/denguedatasets-py) | Python | Curated open-access dengue surveillance & climate datasets for epidemiology and ML |
-| [**boldenr**](https://github.com/fdzul/boldenr) | R | Automated dengue epidemiological bulletins (Veracruz) |
 | [**spatial_analysis_dengue_R**](https://github.com/fdzul/spatial_analysis_dengue_R) | R | Course/material on spatial analysis of dengue in R |
+| [**fdzul.github.io**](https://fdzul.github.io) | Quarto | Personal website: publications, courses, bookdowns and dashboards |
 
 ### 🛠️ Toolbox
 
